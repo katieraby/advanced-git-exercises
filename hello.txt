@@ -1,1 +1,2 @@
 Hello World!
+Change to a file for interactive staging! 
